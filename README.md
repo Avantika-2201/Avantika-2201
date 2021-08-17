@@ -1,16 +1,17 @@
 ### Hi there 👋
+I am Avantika.
+Currently i am studying in IIIT.
+## 🚀 Languages and Tools:
 
-<!--
-**Avantika-2201/Avantika-2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+    
+  ## Connect with me:
 
-Here are some ideas to get you started:
+<p align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href ="https://www.linkedin.com/in/avantika-kerketta-947a59219/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  
+  
